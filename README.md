@@ -39,7 +39,7 @@ payment_system/              IT JUST TELLS FILE WORKING
 
 FOLLOWING COMMAND TO RUN THIS CODE IN TERMINAL.
 1. python main.py --add 101 5000 Alice
-python main.py --view
+2. python main.py --view
 
 How it store values for simple understanding or for non coders
 For first command:
