@@ -28,7 +28,8 @@ Generate a report for all transactions made within the system.
 Here's the Directory Structure
 
 payment_system/              IT JUST TELLS FILE WORKING
-0. │
+
+
 1. ├── main.py                # CLI Handler
 2. ├── payment.py             # Class for Payment object
 3. ├── file_handler.py        # File operations (Save/Load)
