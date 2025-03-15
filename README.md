@@ -28,11 +28,11 @@ Generate a report for all transactions made within the system.
 Here's the Directory Structure
 
 payment_system/              IT JUST TELLS FILE WORKING
-│
-├── main.py                # CLI Handler
-├── payment.py             # Class for Payment object
-├── file_handler.py        # File operations (Save/Load)
-└── payments.json          # Data storage (auto-created)
+0. │
+1. ├── main.py                # CLI Handler
+2. ├── payment.py             # Class for Payment object
+3. ├── file_handler.py        # File operations (Save/Load)
+4. └── payments.json          # Data storage (auto-created)
 
 
 
