@@ -39,14 +39,22 @@ payment_system/              IT JUST TELLS FILE WORKING
 
 
 FOLLOWING COMMAND TO RUN THIS CODE IN TERMINAL.
+
 1. python main.py --add 101 5000 Alice
 2. python main.py --view
 
+
 How it store values for simple understanding or for non coders
+
 For first command:
+
 101 is for ID
+
 5000 is for MONEY
+
 Alice is for user (If user is not listed it will list it or add it)
 
+
 For second comman:
+
 It will show the payment details.
